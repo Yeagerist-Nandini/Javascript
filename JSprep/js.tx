@@ -1,0 +1,19 @@
+Function expression 
+function decalration 
+function hoisting
+function on  object
+this and arguments
+call on objects->noraml call 
+call,apply ,bind
+IIFE
+
+closure->function as return values
+callback->function as parameter
+function as object ->static properties
+functionas constructor
+arrow function
+the function cinstructor
+
+objects={},new
+objects= keys ,values ,enteries, has own properties
+the object constructor
